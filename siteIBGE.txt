@@ -1,0 +1,10 @@
+## 
+site de busca do IBGE com todos os nomes de Uberlândia 
+busca tem que ser manual mas tem como automatizar mas não vai ser o escopo desse programa simples, 
+se quiser contribuir fazendo essa parte será muito bem vindo.
+Obrigado
+
+https://censo2010.ibge.gov.br/nomes/#/search
+
+
+
