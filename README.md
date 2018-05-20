@@ -7,5 +7,5 @@ Install the **Google Text-to-Speech (TTS)** library for Python<br />
 ```pip install gtts```
 
 # Authors
-Adalberto Brant - (GitHub)[https://github.com/adalbertobrant]<br />
-Miguel Nischor - (GitHub)[https://github.com/miguelnischor]<br />
+Adalberto Brant - [GitHub](https://github.com/adalbertobrant)<br />
+Miguel Nischor - [GitHub](https://github.com/miguelnischor)<br />
