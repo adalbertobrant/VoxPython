@@ -1,9 +1,4 @@
 # VoxPython
-A simple script that read a file in portuguese and create an mp3 file with the name whose is in the file
+A script to read a text file and create an MP3 file with the name inside the file.
 
-Select a file with multiples names and the script will create a multiple files in mp3 so you could use to a chatBot or other something 
-that you wanna do.
-
-Sorry about my english folks 
-
-
+Select a file with multiple names and the script will create multiple files in MP3 so you can use in a Chat Bot or something that you want to do.
