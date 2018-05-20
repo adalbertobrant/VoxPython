@@ -1,9 +1,11 @@
 # VoxPython
-A simple script that read a file in portuguese and create an mp3 file with the name whose is in the file
+A library to read a text file and create an MP3 file with the name collected.<br />
+If you select an text file with multiple names, multiple MP3 files will be created. You can use this library to autogenerate audiotext for Chat Bots and Robots.<br />
 
-Select a file with multiples names and the script will create a multiple files in mp3 so you could use to a chatBot or other something 
-that you wanna do.
+# Install
+Install the **Google Text-to-Speech (TTS)** library for Python<br />
+```pip install gtts```
 
-Sorry about my english folks 
-
-
+# Authors
+Adalberto Brant - [GitHub](https://github.com/adalbertobrant)<br />
+Miguel Nischor - [GitHub](https://github.com/miguelnischor)<br />
