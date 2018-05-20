@@ -1,0 +1,4 @@
+## ignore the mp3 files to shrink the data for more helps from my friends.
+
+# ignore generated mp3 files,
+*.mp3
